@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: The Rich Lab for Primate Molecular Health
+      text: Rich Lab for Primate Molecular Health
       color: text-dark
       type: TitleBlock
     subtitle: University of Nebraska Omaha
