@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Lab Members",
-            "url": "/pricing",
+            "url": "/people",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
