@@ -16,7 +16,7 @@ sections:
     actions: []
     media:
       url: /images/Rich Lab Logo 2023.png
-      altText: Unblock your team boost your time to production preview
+      altText: rich lab logo
       elementId: ''
       type: ImageBlock
     badge:
