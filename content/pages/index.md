@@ -14,7 +14,7 @@ sections:
       genetic and biochemical tools to understand the pathways linking animals'
       and humans' environments to their health and well-being.
     actions:
-      - label: Get started
+      - label: Lab Member Bios
         altText: ''
         url: /
         showIcon: false
