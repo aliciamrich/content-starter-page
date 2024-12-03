@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Rich Lab
+      text: The Rich Lab
       color: text-dark
       type: TitleBlock
     subtitle: for Primate Molecular Health
