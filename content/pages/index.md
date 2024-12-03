@@ -13,16 +13,7 @@ sections:
       Studies at the University of Nebraska Omaha. Our team develops creative
       genetic and biochemical tools to understand the pathways linking animals'
       and humans' environments to their health and well-being.
-    actions:
-      - label: Ongoing projects
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
