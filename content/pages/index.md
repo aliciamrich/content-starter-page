@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: for Primate Molecular Health
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Dr. Alicia Rich is an Assistant Professor of Biology and Environmental
+      Studies at the University of Nebraska Omaha. Our team develops creative
+      genetic and biochemical tools to understand the pathways linking animals'
+      and humans' environments to their health and well-being.
     actions:
       - label: Get started
         altText: ''
